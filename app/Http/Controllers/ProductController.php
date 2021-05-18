@@ -61,7 +61,6 @@ class ProductController extends Controller {
     	
     }
 
-
     // update product after edit
     public function updateproduct($update, Request $req) {
 
